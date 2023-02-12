@@ -9,7 +9,7 @@ function App() {
 
         <div>
           <h3 className="text-uppercase">React Sneakers</h3>
-          <p className="opacity-7">проект</p>
+          <p className="opacity-7">учебный проект</p>
         </div>
         </div>
 
@@ -17,7 +17,7 @@ function App() {
           <li className="mr-30">
           <img width={18} height={18}  src="/img/cart.svg" />
 
-          <span> 1205 </span>
+          <span> 2500 </span>
           </li>
           <li>
           <img width={18} height={18}  src="/img/cart.svg" />
@@ -26,7 +26,7 @@ function App() {
       </header>
       
       <div className="content p-40">
-        <h1 className="mb-40">Все</h1>
+        <h1 className="mb-40">Все товары</h1>
         
 
       <div className="d-flex">
